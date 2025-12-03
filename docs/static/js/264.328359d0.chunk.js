@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkfrontend=self.webpackChunkfrontend||[]).push([[264],{264:(e,n,r)=>{r.r(n),r.d(n,{default:()=>o});var l=r(579);function o(){return(0,l.jsxs)("main",{style:{padding:"2rem"},children:[(0,l.jsx)("h1",{children:"Hi, I'm Mushfiqa \ud83d\udc4b"}),(0,l.jsx)("p",{children:"Aspiring AI engineering developer focused on cloud technologies, full stack development, and machine learning."}),(0,l.jsx)("p",{children:"Welcome to my portfolio! Explore my projects and feel free to reach out."})]})}}}]);
+//# sourceMappingURL=264.328359d0.chunk.js.map

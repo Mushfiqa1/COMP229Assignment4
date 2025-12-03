@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/COMP229Assignment4/static/css/main.e6c13ad2.css",
+    "main.js": "/COMP229Assignment4/static/js/main.4bb1a435.js",
+    "static/js/264.328359d0.chunk.js": "/COMP229Assignment4/static/js/264.328359d0.chunk.js",
+    "static/js/283.ab31649b.chunk.js": "/COMP229Assignment4/static/js/283.ab31649b.chunk.js",
+    "static/js/237.dfe3dc52.chunk.js": "/COMP229Assignment4/static/js/237.dfe3dc52.chunk.js",
+    "static/js/453.d7446e4a.chunk.js": "/COMP229Assignment4/static/js/453.d7446e4a.chunk.js",
+    "static/js/722.48d6bd06.chunk.js": "/COMP229Assignment4/static/js/722.48d6bd06.chunk.js",
+    "index.html": "/COMP229Assignment4/index.html",
+    "main.e6c13ad2.css.map": "/COMP229Assignment4/static/css/main.e6c13ad2.css.map",
+    "main.4bb1a435.js.map": "/COMP229Assignment4/static/js/main.4bb1a435.js.map",
+    "264.328359d0.chunk.js.map": "/COMP229Assignment4/static/js/264.328359d0.chunk.js.map",
+    "283.ab31649b.chunk.js.map": "/COMP229Assignment4/static/js/283.ab31649b.chunk.js.map",
+    "237.dfe3dc52.chunk.js.map": "/COMP229Assignment4/static/js/237.dfe3dc52.chunk.js.map",
+    "453.d7446e4a.chunk.js.map": "/COMP229Assignment4/static/js/453.d7446e4a.chunk.js.map",
+    "722.48d6bd06.chunk.js.map": "/COMP229Assignment4/static/js/722.48d6bd06.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.4bb1a435.js"
+  ]
+}
